@@ -5,7 +5,7 @@ go 1.14
 require (
 	github.com/CloudyKit/jet/v3 v3.0.1
 	github.com/Joker/hpp v1.0.0
-	github.com/Joker/jade v1.0.0
+	github.com/Joker/jade v1.1.1
 	github.com/aymerick/raymond v2.0.2+incompatible
 	github.com/cbroglie/mustache v1.2.0
 	github.com/eknkc/amber v0.0.0-20171010120322-cdade1c07385
